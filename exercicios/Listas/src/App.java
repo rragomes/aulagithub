@@ -10,6 +10,7 @@ public class App {
         list.add("Joao");
         list.add("Maria");
         list.add("tiao");
+        list.add("Tulio");
 
         for (String x : list) {
             System.out.println(x);
