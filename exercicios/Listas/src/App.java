@@ -13,6 +13,7 @@ public class App {
         list.add("Tulio");
         list.add("Jãozim");
         list.add("Pedro");
+        list.add("Tulio");
 
         for (String x : list) {
             System.out.println(x);
