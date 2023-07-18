@@ -11,6 +11,8 @@ public class App {
         list.add("Maria");
         list.add("tiao");
         list.add("Tulio");
+        list.add("Jãozim");
+        list.add("Pedro");
 
         for (String x : list) {
             System.out.println(x);
